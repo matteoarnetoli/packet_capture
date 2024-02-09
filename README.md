@@ -13,9 +13,8 @@ I am a junior cybersecurity analyst working for a small company. Today I was ass
 
 <br/>
 
-<img width="50%" alt="image" src="https://github.com/arnius88/PythonParsing/assets/152484037/8e4fbf8d-3dfc-48c7-956a-eafb9a0e7ab9"><br/>
+
 
 
 <br/>
 
-<img width="50%" alt="image" src="https://github.com/arnius88/PythonParsing/assets/152484037/9379ebed-1620-4ff8-a1e4-f65cdda4432e"><br/>
