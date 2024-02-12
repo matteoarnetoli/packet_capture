@@ -1,4 +1,4 @@
-![image](https://github.com/matteoarnetoli/packet_capture/assets/152484037/dd13f9b6-3cac-4944-ae00-f9ec5984bb65)![image](https://github.com/matteoarnetoli/packet_capture/assets/152484037/e34099f1-c67b-496f-bde8-e34ee71a21c2)<h1>Capturing TCP/IP Packets Using Wireshark</h1>
+<h1>Capturing TCP/IP Packets Using Wireshark</h1>
 
 
 <h2>Project description and scenario</h2>
