@@ -10,15 +10,15 @@ I am a junior cybersecurity analyst working for a small company. Today I was ass
 
 <h3><p align="center">Create a filter to only display port 80 TCP data:</h3>
 
-<p align="center"><img width="60%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/0d23380d-c35d-44e4-b1cd-e9d66042235e">
-
+<p align="center"><img width="70%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/b2630eb7-8af1-4e69-a896-feac18e6b8b2">
 
 <h3><p align="center">Create a filter to display only HTTP and HTTPS packets:</h3>
 
-<p align="center"><img width="60%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/06d2bc79-5d7e-4493-9359-16abed44e783">
+<p align="center"><img width="70%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/b39d56ca-1e3f-498b-bdb9-da4ff35b8327">
 
 <h3><p align="center">Omit visits to a specific IP address from the displayed packets:</h3>
 
-<p align="center"><img width="60%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/065ce2f3-2b3c-4bf8-b433-d5d98f5131b8">
+<p align="center"><img width="70%" alt="image" src="https://github.com/matteoarnetoli/packet_capture/assets/152484037/f502eceb-c017-4178-b376-4a4d67106e70">
+
 
 
